@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "emply_name": "salman",
+        "age": "28",
+        "city": "Noida"
+    },
+    {
+        "id": "2",
+        "emply_name": "Rahul",
+        "age": "23",
+        "city": "Delhi"
+    },
+    {
+        "id": "3",
+        "emply_name": "Anmol",
+        "age": "28",
+        "city": "Lucknow"
+    },
+    {
+        "id": "4",
+        "emply_name": "Adil",
+        "age": "23",
+        "city": "Kanpur"
+    }
+]
